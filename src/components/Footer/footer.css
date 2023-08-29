@@ -1,0 +1,51 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+
+.footer {
+  margin-top: 100px;
+  margin-left: 100px;
+  display: flex;
+  justify-content: baseline;
+  
+  
+}
+
+.footerdescription {
+  color: #565656;
+  font-size: 14px;
+  width: 270px;
+  
+}
+
+.footer-icon {
+  width: 36px;
+  height: 26px;
+  flex-shrink: 0;
+  margin-left: 20px;
+  margin-top: 30px;
+   
+  
+}
+
+.whatwedo {
+  color: #ffffff;
+  font-size: 14px;
+  margin-top: 6px;
+}
+
+.second,
+.third,
+.four,
+.five {
+  margin-left: 100px;
+  text-align: center;
+}
+
+.footer .copyright {
+  text-align: center;
+  color: #fff9f9;
+  font-size: 10px;
+}
